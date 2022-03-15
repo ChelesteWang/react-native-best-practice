@@ -14,5 +14,6 @@ react native 最佳实践
 ## 相关生态框架
 - [x] UI 组件库: [react-native-ui-kitten](https://akveo.github.io/react-native-ui-kitten/)
 - [x] 路由框架及组件: [React Navigation](https://reactnavigation.org/)
+- [x] React Native 样式管理: [styled-components](https://www.styled-components.com/)
 - [x] 脚手架: [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript)
 - [ ] 加载闪屏: [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)
