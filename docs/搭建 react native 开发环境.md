@@ -9,6 +9,31 @@ cd ios
 arch -x86_64 pod install
 ```
 
+## IOS 开发注意事项
+
+1. 安装依赖后需要链接
+
+推荐使用以下命令链接:
+
+```shell
+yarn pod
+#  即 npx pod-install ios
+```
+
+或者 M1 使用以下命令链接:
+
+```shell
+cd ios
+arch -x86_64 pod install
+```
+
+其他使用以下命令链接：
+
+```shell
+cd ios
+pod install
+```
+
 ## 默认模板 App.tsx
 
 ```js
