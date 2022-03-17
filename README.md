@@ -17,3 +17,4 @@ react native 最佳实践
 - [x] React Native 样式管理: [styled-components](https://www.styled-components.com/)
 - [x] 脚手架: [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript)
 - [ ] 加载闪屏: [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)
+- [ ] 移动端调试工具: [Flipper](https://fbflipper.com/)
