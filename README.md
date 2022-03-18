@@ -23,5 +23,5 @@ react native 最佳实践
 - [ ] 加载闪屏: [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)
 - [ ] 轮播图: [react-native-swiper](https://github.com/leecade/react-native-swiper)
 - [ ] Tab 栏: [react-native-tab-view](https://github.com/satya164/react-native-tab-view)
-- [ ] 阴影: [react-native-shadow](https://github.com/879479119/react-native-shadow)
+- [ ] 阴影: [react-native-drop-shadow](https://github.com/hoanglam10499/react-native-drop-shadow)
 - [ ] 移动端调试工具: [Flipper](https://fbflipper.com/)
