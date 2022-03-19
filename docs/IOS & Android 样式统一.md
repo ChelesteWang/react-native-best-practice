@@ -29,6 +29,9 @@
 ## 多个横排View的左右边框设置在某些IOS设备上显示不正确  
 解决方法： 使用带相应背景色的`View`替换左右边框
 
+
+## 屏幕大小适配
+
 ## 样式最佳实践
 
 [主题与样式组件的应用](https://blog.openreplay.com/theming-react-native-applications-with-styled-components)
