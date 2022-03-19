@@ -7,6 +7,7 @@ react native 最佳实践
 - [x] 创建初始化项目
 - [x] 底部 tab 导航实践
 - [x] header 配置实践
+- [x] alias 配置
 
 ## 实践踩坑集锦
 
