@@ -37,6 +37,9 @@
 
 ## 屏幕大小适配
 
+可以参考[
+聊聊 React Native 屏幕适配那些事儿](https://juejin.cn/post/6950187009407189005)
+
 ```js
 import { Dimensions, PixelRatio } from "react-native";
 
