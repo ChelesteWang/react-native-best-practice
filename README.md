@@ -26,3 +26,5 @@ react native 最佳实践
 - [ ] Tab 栏: [react-native-tab-view](https://github.com/satya164/react-native-tab-view)
 - [ ] 阴影: [react-native-drop-shadow](https://github.com/hoanglam10499/react-native-drop-shadow)
 - [ ] 移动端调试工具: [Flipper](https://fbflipper.com/)
+https://blog.csdn.net/weixin_40333612/article/details/91881154
+- [ ] 样式集中式管理方案: [restyle](https://github.com/Shopify/restyle)
