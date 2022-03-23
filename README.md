@@ -28,3 +28,4 @@ react native 最佳实践
 - [ ] 渐变: [react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
 - [ ] 移动端调试工具: [Flipper](https://fbflipper.com/)
 - [ ] 样式集中式管理方案: [restyle](https://github.com/Shopify/restyle)
+- [ ] 接口请求与缓存
