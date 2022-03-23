@@ -77,6 +77,15 @@ yarn add --dev babel-plugin-module-resolver
 }
 ```
 
+## IOS 与 Android 调试
+
+启动模拟器
+
+```shell
+yarn ios
+yarn android
+```
+
 ## 默认模板 App.tsx
 
 ```js
