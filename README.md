@@ -29,4 +29,5 @@ react native 最佳实践
 - [ ] 移动端调试工具: [Flipper](https://fbflipper.com/)
 - [ ] 样式集中式管理方案: [restyle](https://github.com/Shopify/restyle)
 - [ ] 接口请求与缓存
+- [x] 离线存储: [async-storage](https://github.com/react-native-async-storage/async-storage)
 - [ ] icon 方案(iconfont 生成 RN 组件):[react-native-iconfont-cli](https://github.com/iconfont-cli/react-native-iconfont-cli)
