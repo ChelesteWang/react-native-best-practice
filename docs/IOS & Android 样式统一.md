@@ -90,6 +90,13 @@ export function scaleSize(size: number) {
 }
 ```
 
+## 图片宽高自适应
+
+```js
+const { width: screenWidth, height: screenHeight } = Dimensions.get('window');
+Math.floor(screenWidth/width*height);
+```
+
 ## 样式最佳实践
 
 [主题与样式组件的应用](https://blog.openreplay.com/theming-react-native-applications-with-styled-components)
