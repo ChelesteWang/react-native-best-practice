@@ -8,12 +8,14 @@ react native 最佳实践
 - [x] 底部 tab 导航实践
 - [x] header 配置实践
 - [x] alias 配置
+- [x] 组件绑定事件实践
 
 ## 实践踩坑集锦
 
 - [ ] [搭建 React Native 开发环境](./docs/搭建%20react%20native%20开发环境.md)
 - [ ] [react native 路由实践](./docs/react%20native%20路由实践.md)
 - [ ] [IOS & Android 样式统一](docs/IOS%20&%20Android%20样式统一.md)
+- [ ] [组件绑定事件实践](docs/组件绑定事件实践.md)
 
 ## 相关生态框架
 
