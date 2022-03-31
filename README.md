@@ -34,3 +34,4 @@ react native 最佳实践
 - [ ] 接口请求与缓存
 - [x] 离线存储: [async-storage](https://github.com/react-native-async-storage/async-storage)
 - [ ] icon 方案(iconfont 生成 RN 组件):[react-native-iconfont-cli](https://github.com/iconfont-cli/react-native-iconfont-cli)
+- [ ] 富文本: [react-native-htmlview](https://github.com/jsdf/react-native-htmlview)
