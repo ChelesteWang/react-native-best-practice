@@ -97,6 +97,23 @@ const { width: screenWidth, height: screenHeight } = Dimensions.get('window');
 Math.floor(screenWidth/width*height);
 ```
 
+## 文字竖向布局
+
+```js
+import {Platform} from 'react-native';
+ 
+style: {
+  fontSize: 28,
+  height: 40,
+  textAlign: 'center',
+  textAlignVertical: 'center',
+  ...Platform.select({
+      ios: { lineHeight: 40 },
+      android: {}
+  })
+}
+```
+
 ## 样式最佳实践
 
 [主题与样式组件的应用](https://blog.openreplay.com/theming-react-native-applications-with-styled-components)
