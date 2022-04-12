@@ -93,15 +93,15 @@ export function scaleSize(size: number) {
 ## 图片宽高自适应
 
 ```js
-const { width: screenWidth, height: screenHeight } = Dimensions.get('window');
-Math.floor(screenWidth/width*height);
+const { width: screenWidth, height: screenHeight } = Dimensions.get("window");
+Math.floor((screenWidth / width) * height);
 ```
 
 ## 文字竖向布局
 
 ```js
 import {Platform} from 'react-native';
- 
+
 style: {
   fontSize: 28,
   height: 40,
@@ -112,6 +112,30 @@ style: {
       android: {}
   })
 }
+```
+
+## 溢出打点
+
+```js
+当字数太多的时候我们需要省略号来显示多余的字，使用Text的属性
+
+第一个是：(几行显示)
+
+<Text numberOfLines={1}/>
+
+第二个是：(省略号显示的位置)
+
+默认的是tail (尾部)
+
+头部 head
+
+中间 middle
+
+从尾部截掉 clip
+
+<Text numberOfLines={1} ellipsizeMode={'tail'}>
+
+
 ```
 
 ## 样式最佳实践
